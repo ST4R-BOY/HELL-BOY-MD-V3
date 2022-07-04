@@ -58,7 +58,7 @@ console.log(color('  🦄Xeon Bot Inc. 2022🦄','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
-    console.log(color('🐶', 'cyan'), color('https://wa.me/916909137213'))
+    console.log(color('🐶', 'cyan'), color('https://wa.me/917561823024'))
     console.log(color('🐶', 'cyan'), color('Cheems Bot Is Online...', 'pink'))
     console.log(color('🐶', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
     console.log(color('🐶','red'), color('Thanks For Using Cheems Bot', 'white'))
@@ -109,15 +109,15 @@ XeonBotInc.ev.on('groups.update', async pea => {
        }
        let wm_fatih = { url : ppgc }
        if (pea[0].announce == true) {
-       XeonBotInc.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nThe group has been closed by admin, Now only admin can send messages !`, `${botname}`, wm_fatih, [])
+       XeonBotInc.send5ButImg(pea[0].id, `「 𝑮𝒓𝒐𝒖𝒑 𝑺𝒆𝒕𝒕𝒊𝒏𝒈𝒔 𝑪𝒉𝒂𝒏𝒈𝒆𝒅 」\n\n𝑻𝒉𝒆 𝒈𝒓𝒐𝒖𝒑 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒄𝒍𝒐𝒔𝒆𝒅 𝒃𝒚 𝒂𝒅𝒎𝒊𝒏, 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 𝒂𝒅𝒎𝒊𝒏 𝒄𝒂𝒏 𝒔𝒆𝒏𝒅 𝒎𝒆𝒔𝒔𝒂𝒈𝒆𝒔 !`, `${botname}`, wm_fatih, [])
        } else if(pea[0].announce == false) {
-       XeonBotInc.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nThe group has been opened by admin, Now participants can send messages !`, `${botname}`, wm_fatih, [])
+       XeonBotInc.send5ButImg(pea[0].id, `「 𝑮𝒓𝒐𝒖𝒑 𝑺𝒆𝒕𝒕𝒊𝒏𝒈𝒔 𝑪𝒉𝒂𝒏𝒈𝒆𝒅 」\n\n𝑻𝒉𝒆 𝒈𝒓𝒐𝒖𝒑 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒐𝒑𝒆𝒏𝒆𝒅 𝒃𝒚 𝒂𝒅𝒎𝒊𝒏, 𝑵𝒐𝒘 𝒑𝒂𝒓𝒕𝒊𝒄𝒊𝒑𝒂𝒏𝒕𝒔 𝒄𝒂𝒏 𝒔𝒆𝒏𝒅 𝒎𝒆𝒔𝒔𝒂𝒈𝒆𝒔 !`, `${botname}`, wm_fatih, [])
        } else if (pea[0].restrict == true) {
-       XeonBotInc.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nGroup info has been restricted, Now only admin can edit group info !`, `${botname}`, wm_fatih, [])
+       XeonBotInc.send5ButImg(pea[0].id, `「 𝑮𝒓𝒐𝒖𝒑 𝑺𝒆𝒕𝒕𝒊𝒏𝒈𝒔 𝑪𝒉𝒂𝒏𝒈𝒆𝒅 」\n\n𝑮𝒓𝒐𝒖𝒑 𝒊𝒏𝒇𝒐 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒓𝒆𝒔𝒕𝒓𝒊𝒄𝒕𝒆𝒅, 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 𝒂𝒅𝒎𝒊𝒏 𝒄𝒂𝒏 𝒆𝒅𝒊𝒕 𝒈𝒓𝒐𝒖𝒑 𝒊𝒏𝒇𝒐 !`, `${botname}`, wm_fatih, [])
        } else if (pea[0].restrict == false) {
-       XeonBotInc.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nGroup info has been opened, Now participants can edit group info !`, `${botname}`, wm_fatih, [])
+       XeonBotInc.send5ButImg(pea[0].id, `「 𝑮𝒓𝒐𝒖𝒑 𝑺𝒆𝒕𝒕𝒊𝒏𝒈𝒔 𝑪𝒉𝒂𝒏𝒈𝒆𝒅 」\n\n𝑮𝒓𝒐𝒖𝒑 𝒊𝒏𝒇𝒐 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒐𝒑𝒆𝒏𝒆𝒅, 𝑵𝒐𝒘 𝒑𝒂𝒓𝒕𝒊𝒄𝒊𝒑𝒂𝒏𝒕𝒔 𝒄𝒂𝒏 𝒆𝒅𝒊𝒕 𝒈𝒓𝒐𝒖𝒑 𝒊𝒏𝒇𝒐 !`, `${botname}`, wm_fatih, [])
        } else {
-       XeonBotInc.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nGroup Subject has been changed to *${pea[0].subject}*`, `${botname}`, wm_fatih, [])
+       XeonBotInc.send5ButImg(pea[0].id, `「 𝑮𝒓𝒐𝒖𝒑 𝑺𝒆𝒕𝒕𝒊𝒏𝒈𝒔 𝑪𝒉𝒂𝒏𝒈𝒆𝒅 」\n\n𝑮𝒓𝒐𝒖𝒑 𝑺𝒖𝒃𝒋𝒆𝒄𝒕 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒄𝒉𝒂𝒏𝒈𝒆𝒅 𝒕𝒐 *${pea[0].subject}*`, `${botname}`, wm_fatih, [])
      }
     })
 
@@ -158,20 +158,21 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 xeonbody = `┌─❖
-│「 𝗛𝗶 👋 」
+│「 𝑯𝒆𝒍𝒍𝒐🌚 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
-   │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
-   │✑  ${metadata.subject}
-   │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
-   │✑ ${xmembers}th
-   │✑  𝗝𝗼𝗶𝗻𝗲𝗱 : 
-   │✑ ${xtime} ${xdate}
+   │❏  𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 
+   │❏  ${metadata.subject}
+   │❏  𝑴𝒆𝒎𝒃𝒆𝒓 : 
+   │❏ ${xmembers}th
+   │❏  𝑱𝒐𝒊𝒏𝒆𝒅 : 
+   │❏ ${xtime} ${xdate}
+   │❏ 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑱𝒐𝒊𝒏 𝑻𝒉𝒆 𝑮𝒓𝒐𝒖𝒑🌝
    └───────────────┈ ⳹`
    //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
-{buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
+{buttonId: `wkwwk`, buttonText: {displayText: '𝑻𝒉𝒂𝒏𝒌𝒔😌'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
@@ -202,20 +203,20 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                     xeonbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
+│「 𝑮𝒐𝒐𝒅 𝑩𝒚𝒆🌝 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
-   │✑  𝗟𝗲𝗳𝘁 
-   │✑ ${metadata.subject}
-   │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
-   │✑ ${xeonmembers}th
-   │✑  𝗧𝗶𝗺𝗲 : 
-   │✑  ${xeontime} ${xeondate}
+   │❏  𝑳𝒆𝒇𝒕 
+   │❏ ${metadata.subject}
+   │❏  𝑴𝒆𝒎𝒃𝒆𝒓 : 
+   │❏ ${xeonmembers}th
+   │❏  𝑻𝒊𝒎𝒆 : 
+   │❏ ${xeontime} ${xeondate}
    └───────────────┈ ⳹`
       //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText: 'Sayonara 🥀'}, type: 1}
+{buttonId: `wkwkwk`, buttonText: {displayText: 𝑮𝒆𝒕 𝑳𝒐𝒔𝒕🤧''}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
