@@ -9338,7 +9338,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										"rowId": `${prefix}randomimagemenu`
 									},
 										{
-											"title": "Anime Menu 😘",
+											"title": "Anime Menu 🌝",
 										"description": "Displays The List Of Random Anime Features",
 										"rowId": `${prefix}animemenu`
 										},
@@ -10935,10 +10935,9 @@ case 'tqtt':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 reply(`Thanks to
-LORD BUDDHA
-Xeon (Me)
-My family
-And all friends who helped assemble this sexy script !!!`)
+❐ DG xeon for the Script
+❐ 𝑂͢𝐺𝐺𝑌⇄𝑆𝛴𝛤 ♳ (me)
+❐ HELL BOY`)
 break
 default:
 if (budy.startsWith('=>')) {
