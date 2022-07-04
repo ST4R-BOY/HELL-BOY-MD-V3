@@ -216,7 +216,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText: 𝑮𝒆𝒕 𝑳𝒐𝒔𝒕🤧''}, type: 1}
+{buttonId: `wkwkwk`, buttonText: {displayText:'𝑮𝒆𝒕 𝑳𝒐𝒔𝒕🤧'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
