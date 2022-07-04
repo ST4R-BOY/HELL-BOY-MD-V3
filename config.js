@@ -48,7 +48,7 @@ global.socialm = "GitHub: HELLBOY7561" //ur github or insta name
 global.location = "India, Kerala, Idukki" //ur location
 
 //bot bombdy
-global.botname = "𝑺𝒉𝒊𝒛𝒖𝒌𝒂ᑉᶟ" //ur bot name
+global.botname = "𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫" //ur bot name
 global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫"
@@ -57,7 +57,7 @@ global.themeemoji = "❏"
 global.reactmoji = "🌝"
 global.ownertag = ['917561823024'] //ur owner tag
 global.ownernummenu = ['917561823024'] //ur owner number in menu and all
-global.watermark = "𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫." //ur watermark
+global.watermark = "𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫" //ur watermark
 global.botscript = "https://github.com/HELLBOY7561/HELL-BOY-MD-V3"
 global.linkz1 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
 global.linkz2 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
