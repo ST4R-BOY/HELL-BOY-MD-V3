@@ -2,7 +2,8 @@
 
 <h1 align="center">𝑯𝑬𝑳𝑳 𝑩𝑶𝒀 𝑴𝑫 𝗩3ꫂ<br></h1>
 <p align="center">
-<img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
+
+![Banner](cheemspic.jpg) <br />
 </p>
 
 <p align="center">
