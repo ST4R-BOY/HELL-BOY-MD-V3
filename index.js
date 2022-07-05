@@ -105,7 +105,7 @@ XeonBotInc.ev.on('groups.update', async pea => {
        try {
        ppgc = await XeonBotInc.profilePictureUrl(pea[0].id, 'image')
        } catch {
-       ppgc = 'https://telegra.ph/file/3983c55ac7f3ebea225d3.jpg'
+       ppgc = 'https://telegra.ph/file/f0697709fbdb19386e256.jpg'
        }
        let wm_fatih = { url : ppgc }
        if (pea[0].announce == true) {
@@ -157,17 +157,18 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                xeonbody = `┌─❖
+                xeonbody = `┌─♬
 │「 𝑯𝒆𝒍𝒍𝒐🌚 」
-└┬❖ 「 @${xeonName.split("@")[0]}  」
+└┬♬ 「 @${xeonName.split("@")[0]}  」
    │❏  𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 
-   │❏  ${metadata.subject}
+   │⚘  ${metadata.subject}
    │❏  𝑴𝒆𝒎𝒃𝒆𝒓 : 
-   │❏ ${xmembers}th
+   │⚘ ${xmembers}th
    │❏  𝑱𝒐𝒊𝒏𝒆𝒅 : 
-   │❏ ${xtime} ${xdate}
+   │⚘ ${xtime} ${xdate}
    │❏ 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑱𝒐𝒊𝒏 𝑻𝒉𝒆 𝑮𝒓𝒐𝒖𝒑🌝
-   └───────────────┈ ⳹`
+   │    ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ♥      
+   └───────────────┈ ☯`
    //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
@@ -180,13 +181,13 @@ mimetype: docs,
 jpegThumbnail:buffer,
 mentions: [num],
 fileName: `${metadata.subject}`,
-fileLength: 99999999999999,
+fileLength: 7777777777,
 caption: xeonbody,
 footer: `${botname}`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title: `${ownername}`,
+title: `⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ`,
 body: `Don't forget to read group description`,
 mediaType:2,
 thumbnail: buffer,
@@ -202,16 +203,17 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    xeonbody = `┌─❖
+                    xeonbody = `┌─♬
 │「 𝑮𝒐𝒐𝒅 𝑩𝒚𝒆🌝 」
-└┬❖ 「 @${xeonName.split("@")[0]}  」
+└┬♬ 「 @${xeonName.split("@")[0]}  」
    │❏  𝑳𝒆𝒇𝒕 
-   │❏ ${metadata.subject}
+   │⚘ ${metadata.subject}
    │❏  𝑴𝒆𝒎𝒃𝒆𝒓 : 
-   │❏ ${xeonmembers}th
+   │⚘ ${xeonmembers}th
    │❏  𝑻𝒊𝒎𝒆 : 
-   │❏ ${xeontime} ${xeondate}
-   └───────────────┈ ⳹`
+   │⚘ ${xeontime} ${xeondate}
+   │    ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ♥
+   └───────────────┈ ☯`
       //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
@@ -224,13 +226,13 @@ mimetype: docs,
 jpegThumbnail:buffer,
 mentions: [num],
 fileName: `${metadata.subject}`,
-fileLength: 99999999999999,
+fileLength: 111111111111,
 caption: xeonbody,
 footer: `${botname}`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title: `${ownername}`,
+title: `⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ`,
 body: `Bye! my friend, take care.`,
 mediaType:2,
 thumbnail: buffer,
