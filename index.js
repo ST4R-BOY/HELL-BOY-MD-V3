@@ -167,8 +167,8 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
    │❏  𝑱𝒐𝒊𝒏𝒆𝒅 : 
    │⚘ ${xtime} ${xdate}
    │❏ 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑱𝒐𝒊𝒏 𝑻𝒉𝒆 𝑮𝒓𝒐𝒖𝒑🌝
-   │    ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ♥      
-   └───────────────┈ ☯`
+   │    ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ      
+   └───────────────┈❦`
    //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
@@ -191,8 +191,8 @@ title: `⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ`,
 body: `Don't forget to read group description`,
 mediaType:2,
 thumbnail: buffer,
-sourceUrl: `${websitex}`,
-mediaUrl: `${websitex}`
+sourceUrl: `https://telegra.ph/file/f0697709fbdb19386e256.jpg`,
+mediaUrl: `https://telegra.ph/file/f0697709fbdb19386e256.jpg`
 }}
 }
 XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
@@ -212,8 +212,8 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    │⚘ ${xeonmembers}th
    │❏  𝑻𝒊𝒎𝒆 : 
    │⚘ ${xeontime} ${xeondate}
-   │    ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ♥
-   └───────────────┈ ☯`
+   │    ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ
+   └───────────────┈❦`
       //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
@@ -236,8 +236,8 @@ title: `⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ`,
 body: `Bye! my friend, take care.`,
 mediaType:2,
 thumbnail: buffer,
-sourceUrl: `${websitex}`,
-mediaUrl: `${websitex}`
+sourceUrl: `https://telegra.ph/file/f0697709fbdb19386e256.jpg`,
+mediaUrl: `https://telegra.ph/file/f0697709fbdb19386e256.jpg`
 }}
 }
 XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
