@@ -1,5 +1,5 @@
 //════════════════════════════//
-//H i itse hell-boy and i given credit to@DG XEON
+//Hello it's me hell-boy and i given credit to@DG XEON
 //AND FRIENDS TO MAKE THIS SCRIPT
 //════════════════════════════//
 //thank YOU 💗😊
