@@ -14,6 +14,9 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 <a href="https://youtu.be/xn9RatOrbuI"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
+# Thanks to
+
+ [@DG XEON](https://github.com/DGXeon) for [CHEEMSBOT-MD3](https://github.com/DGXeon/Cheemsbot-MD3)
 ------
 
 # ```Bot Info```
