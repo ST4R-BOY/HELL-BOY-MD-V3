@@ -191,8 +191,8 @@ title: `⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ`,
 body: `Don't forget to read group description`,
 mediaType:2,
 thumbnail: buffer,
-sourceUrl: `https://telegra.ph/file/f0697709fbdb19386e256.jpg`,
-mediaUrl: `https://telegra.ph/file/f0697709fbdb19386e256.jpg`
+sourceUrl: `${websitex}`,
+mediaUrl: `${websitex}`
 }}
 }
 XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
@@ -226,7 +226,7 @@ mimetype: docs,
 jpegThumbnail:buffer,
 mentions: [num],
 fileName: `${metadata.subject}`,
-fileLength: 111111111111,
+fileLength: 111111111111111111,
 caption: xeonbody,
 footer: `${botname}`,
 buttons: buttons,
@@ -236,8 +236,8 @@ title: `⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ`,
 body: `Bye! my friend, take care.`,
 mediaType:2,
 thumbnail: buffer,
-sourceUrl: `https://telegra.ph/file/f0697709fbdb19386e256.jpg`,
-mediaUrl: `https://telegra.ph/file/f0697709fbdb19386e256.jpg`
+sourceUrl: `${websitex}`,
+mediaUrl: `${websitex}`
 }}
 }
 XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
