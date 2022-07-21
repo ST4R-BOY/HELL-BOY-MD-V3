@@ -24,7 +24,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['917561823024'] //ur owner number
-global.ownername = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
+global.ownername = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"//owner name
 global.ytname = "YT: ʜᴇʟʟ ʙᴏʏ" //ur yt chanel name
 global.socialm = "GitHub: HELLBOY7561" //ur github or insta name
 global.location = "India, Kerala, Idukki" //ur location
@@ -33,11 +33,11 @@ global.location = "India, Kerala, Idukki" //ur location
 global.botname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ" //ur bot name
 global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ ʙʏ"
-global.author = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
-global.themeemoji = "❏"
-global.reactmoji = "🌝"
-global.ownertag = ['917561823024'] //ur owner tag
+global.packname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ ʙʏ"//sticker pack name 
+global.author = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"//sticker pack author
+global.themeemoji = "❏"//use any emoji,icons
+global.reactmoji = "🌝"//any send menu,alive bot send react emoji
+global.ownertag = ['999999999'] //if you use this anyone owner number bot send a sticker eg: use 9999999
 global.ownernummenu = ['917561823024'] //ur owner number in menu and all
 global.botscript = "https://github.com/HELLBOY7561/HELL-BOY-MD-V3"
 global.linkz1 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
