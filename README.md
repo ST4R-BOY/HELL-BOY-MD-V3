@@ -5,10 +5,10 @@
 
 # ```RE-EDITIED VERSION```
 
-![Banner](91d655a8417b6ec0e62c160794fc33aa.jpg) <br />
+![Banner](HELL-BOY.jpg) <br />
 </p>
 
-            © Copy Rights Received
+             © Copy Rights Received
 
 
 <p align="center">
