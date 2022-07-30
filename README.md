@@ -8,6 +8,9 @@
 ![Banner](91d655a8417b6ec0e62c160794fc33aa.jpg) <br />
 </p>
 
+            © Copy Rights Received
+
+
 <p align="center">
 HELL-BOY-MD-V3 Multi Device is a automated re-editied whatsapp bot created by <a href="https://github.com/HELLBOY7561" target="_blank">HELL-BOY</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
@@ -54,3 +57,5 @@ HELL-BOY-MD-V3 Multi Device is a automated re-editied whatsapp bot created by <a
 - CHANGE OWNER NUMBER TAG [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L58)
 - CHANGE OWNER NAME [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L45)
 - CHANGE BOT NAME [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L51)
+        
+                
