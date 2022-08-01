@@ -40,7 +40,7 @@ HELL-BOY-MD-V3 Multi Device is a automated re-editied whatsapp bot created by <a
 
 # ```Scan QR Code For Session```
 
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+[![HELL BOY MD](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@OGGY36/HELL-BOY-MD?output%20only=1&lite=1#index.js)
 
 
 # ```DEPLOY```
