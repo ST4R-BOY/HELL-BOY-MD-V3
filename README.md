@@ -50,12 +50,4 @@ HELL-BOY-MD-V3 Multi Device is a automated re-editied whatsapp bot created by <a
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hell-Boy190/HELL-BOY-MD-V3/)
 
 
-# `SETTINGS`
-
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L44)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L59)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L58)
-- CHANGE OWNER NAME [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L45)
-- CHANGE BOT NAME [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L51)
-        
-                
+ ```HELL BOY MD```
