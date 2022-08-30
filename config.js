@@ -9,7 +9,7 @@ const chalk = require("chalk")
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -36,13 +36,13 @@ global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur we
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ ʙʏ"//sticker pack name 
 global.author = "ʜᴇʟʟ ʙᴏʏ"//sticker pack author
-global.themeemoji = "❏"//use any emoji,icons
+global.themeemoji = "❍"//use any emoji,icons
 global.reactmoji = "🌝"//any send menu,alive bot send react emoji
 global.ownertag = ['999999999'] //if you use this anyone tag owner number bot send a sticker(you don't need this eg: use 9999999),(if you need this use your owner number)
 global.ownernummenu = ['917561823024'] //ur owner number in menu and all
 global.botscript = "https://github.com/HELLBOY77/HELL-BOY-MD-V3"
-global.linkz1 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
-global.linkz2 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
+global.linkz1 = "https://chat.whatsapp.com/GOFfHo7QN855SbunBqNb65"
+global.linkz2 = "https://chat.whatsapp.com/GOFfHo7QN855SbunBqNb65"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
