@@ -40,7 +40,7 @@ global.themeemoji = "❍"//use any emoji,icons
 global.reactmoji = "🌝"//any send menu,alive bot send react emoji
 global.ownertag = ['999999999'] //if you use this anyone tag owner number bot send a sticker(you don't need this eg: use 9999999),(if you need this use your owner number)
 global.ownernummenu = ['917561823024'] //ur owner number in menu and all
-global.botscript = "https://github.com/HELLBOY77/HELL-BOY-MD-V3"
+global.botscript = "https://github.com/HELL-BOY77/HELL-BOY-MD-V3"
 global.linkz1 = "https://chat.whatsapp.com/GOFfHo7QN855SbunBqNb65"
 global.linkz2 = "https://chat.whatsapp.com/GOFfHo7QN855SbunBqNb65"
 
