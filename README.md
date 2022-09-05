@@ -52,7 +52,7 @@ HELL-BOY-MD-V3 Multi Device is a automated re-editied whatsapp bot created by <a
 ## ```Change The Username And Add Your GitHub Username And Deploy```
 
 ```
-https://heroku.com/deploy?template=https://github.com/username/Anya-Xd-MD/
+https://heroku.com/deploy?template=https://github.com/username/HELL-BOY-MD-V3/
 ```  
 
  ```HELL BOY MD```
