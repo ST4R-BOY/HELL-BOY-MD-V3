@@ -25,7 +25,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['917561823024'] //ur owner number
-global.ownername = "𝑆𝛵𝛥𝑅 𝛣𝛩𝑌 👅"//owner name
+global.ownername = "𝑆𝛵͢𝛥𝑅 𝛣𝛩𝑌"//owner name
 global.ytname = "YT: HELL BOY" //ur yt chanel name
 global.socialm = "GitHub: HELL-BOY77" //ur github or insta name
 global.location = "India, Kerala, Idukki" //ur location
@@ -38,7 +38,7 @@ global.packname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ ʙʏ"//sticker pack name
 global.author = "ʜᴇʟʟ ʙᴏʏ"//sticker pack author
 global.themeemoji = "❍"//use any emoji,icons
 global.reactmoji = "🌝"//any send menu,alive bot send react emoji
-global.ownertag = ['999999999'] //if you use this anyone tag owner number bot send a sticker(you don't need this eg: use 9999999),(if you need this use your owner number)
+global.ownertag = ['917561823024'] //if you use this anyone tag owner number bot send a sticker(you don't need this eg: use 9999999),(if you need this use your owner number)
 global.ownernummenu = ['917561823024'] //ur owner number in menu and all
 global.botscript = "https://github.com/HELL-BOY77/HELL-BOY-MD-V3"
 global.linkz1 = "https://chat.whatsapp.com/GOFfHo7QN855SbunBqNb65"
